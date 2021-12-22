@@ -19,3 +19,4 @@ jmeter -n -t yourJMXFile.jmx -l yourCSVFile.csv -e -o Reports
 
 ## Report View
 
+![Jmeter Report Generate](https://user-images.githubusercontent.com/96170694/147140012-289d74b1-9f66-4c75-9720-a2812a48bfd4.PNG)
